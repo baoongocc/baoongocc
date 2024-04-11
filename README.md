@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @baoongocc
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-baoongocc/baoongocc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+yeuu cauu nhatt
+nhungg ma
+cauu co iu to khongg
+a nhung maaa
+cau gioi quaaa
+to khog voi toi noii 😭
+phai lam sao phai lam sao dayy 
